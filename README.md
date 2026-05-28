@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AABEE,100:229ED9&height=200&section=header&text=Personal%20Creator%20Bot&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Your%20Custom%20Telegram%20Bot%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/personalcreatorbot)
 [![Status](https://img.shields.io/badge/Status-Functional-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge&logo=opensourceinitiative&logoColor=white)]()
 [![Languages](https://img.shields.io/badge/Languages-4-orange?style=for-the-badge&logo=googletranslate&logoColor=white)]()
@@ -34,11 +34,11 @@
 
 ```
 ┌──────────────────────────────────────────┐
-│           PERSONAL CREATOR BOT           │  │
+│           PERSONAL CREATOR BOT           │
 │  Create your own personalized Telegram   │
 │  bot, receive messages from users and    │
-│  manage everything from one place.       │  │
-│          Status: ✅ Functional        │
+│  manage everything from one place.       │
+│          Status: ✅ Functional           │      
 └──────────────────────────────────────────┘
 ```
 
@@ -93,7 +93,7 @@ Copying, distribution, or use of any part of this project without explicit permi
 
 **Made with ❤️ for the Telegram community**
 
-[![Telegram](https://img.shields.io/badge/Join_on_Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org)
+[![Telegram](https://img.shields.io/badge/Join_on_Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/personalcreatorbot)
 
 *© 2026 Personal Creator Bot » All rights reserved.*
 
