@@ -4,7 +4,7 @@
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org)
 [![Status](https://img.shields.io/badge/Status-Functional-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)]()
-[![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge&logo=opensourceinitiative&logoColor=white)]()
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge&logo=opensourceinitiative&logoColor=white)]()
 [![Languages](https://img.shields.io/badge/Languages-4-orange?style=for-the-badge&logo=googletranslate&logoColor=white)]()
 
 <br/>
@@ -38,7 +38,7 @@
 │  Create your own personalized Telegram   │
 │  bot, receive messages from users and    │
 │  manage everything from one place.       │  │
-│           Status: ✅ Functional        │
+│          Status: ✅ Functional        │
 └──────────────────────────────────────────┘
 ```
 
@@ -82,7 +82,8 @@
 
 ## 📄 License
 
-This project is licensed under the **MIT License** » see the [LICENSE](LICENSE) file for details.
+© 2026 Personal Creator Bot » All rights reserved.  
+Copying, distribution, or use of any part of this project without explicit permission is strictly prohibited.
 
 ---
 
@@ -94,6 +95,6 @@ This project is licensed under the **MIT License** » see the [LICENSE](LICENSE)
 
 [![Telegram](https://img.shields.io/badge/Join_on_Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org)
 
-*© 2025 Personal Creator Bot » All rights reserved.*
+*© 2026 Personal Creator Bot » All rights reserved.*
 
 </div>
